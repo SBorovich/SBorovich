@@ -1,4 +1,8 @@
-## Hi there 👋
+### Hi there 👋, my name is Sergiy Borovich
+![](https://static.vecteezy.com/system/resources/thumbnails/054/047/766/small_2x/abstract-blue-and-orange-glowing-digital-code-background-free-video.jpg)
+
+I'm Sergiy Borovich, and I specialize in QA Automation Engineering. I really enjoy working with test automation frameworks like Selenium, as well as API testing tools like Postman and REST Assured. I also have experience with performance testing . My background includes both web and mobile automation testing, and I particularly enjoy writing clean, maintainable test code in Python and JavaScript.
+
 ## Languages and Tools: 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" width='50'>&nbsp;
 <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width='60'>&nbsp;
@@ -35,3 +39,8 @@
 <img src="https://pluspng.com/img-png/mozilla-firefox-logo-png-firefox-png-images-free-img-691x691.png" width='60'>&nbsp;
 <img src="https://www.liblogo.com/img-logo/mi303e822-microsoft-edge-logo-edge-browser-logo-free-icon-of-browsers-logos.png" width='60'>&nbsp;
 <img src="https://www.liblogo.com/img-logo/op221f6b0-opera-logo-file-opera-2015-icon-svg-wikimedia-commons.png" width='60'>&nbsp;
+
+## Social madia:
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SBorovich)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sergiy-borovich//)  
+
